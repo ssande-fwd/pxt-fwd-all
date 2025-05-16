@@ -1,0 +1,27 @@
+{
+    "name": "pxt-fwd-all",
+    "version": "1.0.0",
+    "description": "All Forward Education modules.",
+    "license": "MIT",
+    "dependencies": {
+        "fwd-breakout": "github:ssande-fwd/pxt-fwd-modules/fwd-breakout",
+        "fwd-dial": "github:ssande-fwd/pxt-fwd-modules/fwd-dial",
+        "fwd-float": "github:ssande-fwd/pxt-fwd-modules/fwd-float",
+        "fwd-learn-to-solder": "github:ssande-fwd/pxt-fwd-modules/fwd-learn-to-solder",
+        "fwd-led-ring": "github:ssande-fwd/pxt-fwd-modules/fwd-led-ring",
+        "fwd-lights": "github:ssande-fwd/pxt-fwd-modules/fwd-lights",
+        "fwd-edu-line": "github:ssande-fwd/pxt-fwd-modules/fwd-line",
+        "fwd-moisture": "github:ssande-fwd/pxt-fwd-modules/fwd-moisture",
+        "fwd-ph": "github:ssande-fwd/pxt-fwd-modules/fwd-ph",
+        "fwd-solar": "github:ssande-fwd/pxt-fwd-modules/fwd-solar",
+        "fwd-sonar": "github:ssande-fwd/pxt-fwd-modules/fwd-sonar",
+        "fwd-temperature": "github:ssande-fwd/pxt-fwd-modules/fwd-temperature",
+        "fwd-touch": "github:ssande-fwd/pxt-fwd-modules/fwd-touch"
+    },
+    "files": [],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
+}
